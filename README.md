@@ -21,6 +21,6 @@
 
 3. Check your camera with webcam, zoom, google-meet, or anything that show your camera. You should see chickens!
 
-![image info](./chickens.jpg)
+![image info](./chicken.jpg)
 
 Video is taken from https://youtu.be/oHpetnUFQMA
